@@ -14,17 +14,29 @@ Interactive Interface: Built with Three.js, HTML, CSS, and JavaScript for seamle
 Project Structure ->
 
 solar-system/
+
 ├── index.html           # Main HTML file (single file with internal css and js)
+
 ├── Deep Space Sound     # Background audio file
+
 ├── images/              # Planet texture images
+
 │   ├── mercury.jpg
+
 │   ├── venus.jpg
+
 │   ├── earth.jpg
+
 │   ├── mars.jpg
+
 │   ├── jupiter.jpg
+
 │   ├── saturn.jpg
+
 │   ├── uranus.jpg
+
 │   └──  neptune.jpg
+
 └── README.md            # This file
 
 Getting Started ->
